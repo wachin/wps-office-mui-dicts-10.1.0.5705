@@ -1,7 +1,6 @@
-# wps-office-mui-dicts-10.1.0.5705
+# MUI and Ditcs 10.1.0.5705 for WPS Office 2016
 
-
-This are the MUI and Ditcs for WPS Office 2016 version 10.1.0.5705
+This are the MUI and Ditcs 10.1.0.5705 for WPS Office 2016 
 
 To install it, clone or download this repo, and the folders: 
 
